@@ -21,6 +21,15 @@ Usage is easy. The different settings can be defined in lines 19-28:
 * Define the center of the  loaction if the map gets opened
 
 # Examples
+Markers with clustering:\
+<img src="https://github.com/adrimehl/photomap/blob/main/Example_with_clustering.PNG" width="700">
+
+Markers without clustering:\
+<img src="https://github.com/adrimehl/photomap/blob/main/Example_without_clustering.PNG" width="700">
+
+Example of picture:\
+<img src="https://github.com/adrimehl/photomap/blob/main/Example_image_shown.png" width="700">
+
 
 
 # Author
