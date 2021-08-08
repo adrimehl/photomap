@@ -16,7 +16,7 @@ The idea came up after a long road trip to show all the pictures of the journey 
 Usage is easy. The different settings can be defined in lines 19-28:
 
 * add the link to the folder with the pictures. All pictures that have information of the GPS location are being used, if no GPS information is available, the pictures will not be used. 
-* Chosse if a customized marker shoudl be used: If True, then choose which image should be used.
+* Chosse if a customized marker should be used: If True, then choose which image should be used.
 * Define if clustering of the markers should be activated or not
 * Define the center of the  loaction if the map gets opened
 
