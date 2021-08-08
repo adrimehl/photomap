@@ -20,6 +20,9 @@ Usage is easy. The different settings can be defined in lines 19-28:
 * Define if clustering of the markers should be activated or not
 * Define the center of the  loaction if the map gets opened
 
+# Examples
+
+
 # Author
 
 Adrian Mehl
