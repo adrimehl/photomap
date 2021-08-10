@@ -23,7 +23,7 @@ custommarker=True  #use a customized marker
 if custommarker==True:
     cluster_img = r'...' #Link to marker picture
     
-clustering=False #choose if marker should be clustered or not
+clustering=True #choose if marker should be clustered or not
 
 startlocation=[51.3, 13.3065] #center of location when map opens
 
